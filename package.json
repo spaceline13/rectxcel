@@ -1,0 +1,31 @@
+{
+  "name": "mobxexcel",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.5.1",
+    "@material-ui/icons": "^3.0.1",
+    "ag-grid-community": "^19.0.0",
+    "ag-grid-react": "^19.0.0",
+    "custom-react-scripts": "0.2.2",
+    "mobx": "^5.8.0",
+    "mobx-react": "^5.4.3",
+    "mobx-react-lite": "^0.3.4",
+    "react": "16.7.0-alpha.2",
+    "react-dom": "16.7.0-alpha.2",
+    "react-step-wizard": "^4.4.0",
+    "react-tabs": "^2.3.0",
+    "react-toastify": "^4.4.3",
+    "sheetjs": "^1.0.21",
+    "xlsx": "^0.14.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "mobx-react-devtools": "^6.0.3"
+  }
+}
